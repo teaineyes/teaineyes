@@ -22,15 +22,12 @@
 - 👁️ I started programming when I was 10 years old. 
 
 
-- 👁️ NOTE : I'm using FASM assembler.
-
-
 - 👁️ Reverse engineering - hobby.
 
 <br/>  
 
 
-## Skill Set ( including asm )  
+## Skill Set
 <tr><td valign="top" width="33%">
 
 <div align="center">  
