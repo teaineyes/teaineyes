@@ -56,7 +56,7 @@
 
 ## Connect with me  
 ***<div align="center">👁️ Telegram : https://t.me/theshameful  
-👁️ Github : https://github.com/assemblergeek  </div>***  
+👁️ Github : https://github.com/teaineyes  </div>***  
   
 
 <br/>  
