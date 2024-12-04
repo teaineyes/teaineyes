@@ -36,9 +36,9 @@
 <div align="center">  
 C++  /
   
-C  /
-  
+C  /  
 FASM  
+
 </div>
 </td><td valign="top" width="33%">
 
