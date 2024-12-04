@@ -34,10 +34,11 @@
 <tr><td valign="top" width="33%">
 
 <div align="center">  
-C++  /
+C++ 
   
-C  /  
+C  
 FASM  
+
 
 </div>
 </td><td valign="top" width="33%">
