@@ -33,11 +33,11 @@
 ## Skill Set ( including asm )  
 <tr><td valign="top" width="33%">
 
-<div align="center">  
+***<div align="center">  
 C++ / 
 C /
 FASM 
-</div>
+</div>***
 
 </td><td valign="top" width="33%">
 
