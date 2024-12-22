@@ -16,7 +16,7 @@
 - 👁️ A real fan of Hello Kitty and My Little Pony.  
   
 
-- 👁️ At the moment I am working on a project named "Clusters".
+- 👁️ At the moment I am working on a project named "Clusters Dead".
 
 
 - 👁️ I started programming when I was 10 years old. 
