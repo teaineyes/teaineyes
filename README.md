@@ -10,7 +10,7 @@
 - 👁️ I'm fifteen years old.
   
 
-- 👁️ My OS - EndeavourOS + Hyprland.  
+- 👁️ My OS - Arch + Xfce4.  
   
 
 - 👁️ A real fan of Hello Kitty and My Little Pony.  
